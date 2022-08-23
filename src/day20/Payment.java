@@ -1,0 +1,7 @@
+package day20;
+
+public class Payment {
+    public static void main(String[] args) {
+        //class created
+    }
+}
